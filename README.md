@@ -1,5 +1,7 @@
 # Dataset Analysis and Processing
 
+**See [this](inference.ipynb) with the stockstats and all in one.
+
 ## Data Source
 
 I downloaded the dataset from [this Russian financial website](https://www.finam.ru/quote/forex/eurusd/export/). The website is in Russian, but I used my browser's translate feature. 
