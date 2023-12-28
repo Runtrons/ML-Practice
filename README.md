@@ -14,6 +14,8 @@ You can download the dataset I used at the beginning of this process from my Goo
 - [Main Google Drive Folder](https://drive.google.com/drive/folders/1NIw2Kqc043LLIK7ZXrx8wYRol7zuFjP2?usp=drive_link)
 - [Specific Dataset File](https://drive.google.com/file/d/1HAWgJpsows16hIDv3vg1szH9XQ7CGR6C/view?usp=drive_link)
 
+All of the datasets are in the main google drive folder.
+
 ## Data Processing
 
 After downloading the data, the following steps were undertaken:
