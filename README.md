@@ -23,7 +23,7 @@ After downloading the data, the following steps were undertaken:
 2. **Data Cleaning and Preparation**: Cleaned and prepared the data for analysis.
 3. **Indicator Addition**: Added various indicators. (Note: If there are errors, they likely occurred here.)
 
-The processing script is documented in the markdown file "dataset".
+The processing script is documented in the markdown file "dataset" which goes over how I made the dataset. ([(Here)](dataset.md)):
 
 **Author's Note**: The dataset and scripts were generated with the assistance of ChatGPT, under my guidance as the prompt master.
 **Author's Note2**: So was the read me as you can definitly tell :).
@@ -47,7 +47,7 @@ The target in the dataset aims to predict market movement: "1" indicates an upwa
 
 To determine the best time period for predictions, I ran the following script:
 
-**Main Script** ([main_script.py](link-to-main-script)):
+**Main Script** ([main_script.py](main_script.py)):
 ```python
 import os
 from multiprocessing import Pool
@@ -163,3 +163,6 @@ train_and_save_model(dataset_path, model_save_path)
 
 ```
 
+If you want the exact model I used to get the 92% results you can get it here too: https://drive.google.com/file/d/19aqpTFvfxXdEhSaBCFkLiHWbFGkF6dQI/view?usp=drive_link
+
+I obviously do not bealive these reflect the actual results, thats why I want you to look over it and see if you can figure out what it is wrong and guide me to the right direction.
