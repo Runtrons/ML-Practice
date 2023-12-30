@@ -1,5 +1,8 @@
 # Dataset Analysis and Processing
 
+This is the script you can use to recreate the issue I am having: [this](help.ipynb)
+
+
 **See [this](inference.ipynb) with the stockstats and all in one. If you want to use the 22 year data (Isnt the cleanest data) drop the volume column:
 df.drop('volume', axis=1, inplace=True). The tesla dataset is the most trustworthy dataset coming from a reliable source.
 
